@@ -1,0 +1,28 @@
+body::before {
+  display: block;
+  content: '';
+  height: 60px;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+.nav-item .nav-link {
+  color : aqua !important;
+  font-weight: bold;
+}
+
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+  font-size: 2rem;
+  
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
