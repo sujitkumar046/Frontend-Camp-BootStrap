@@ -1,8 +1,6 @@
-# Frontend Bootcamp Website - Bootstrap 5
+# FrontEndBootCamp
 
-> Simple one page website for a fake bootcamp
+[FrontEndBootCampg.com](https://gifted-lalande-9da3a7.netlify.app/).
 
-This is part of a [YouTube tutorial](https://www.youtube.com/watch?v=4sosXZsdy-s&t=186s)
-
-### Website Demo
-https://www.frontendbootcampdemo.com/
+1. It is a complete responsive website prepared using bootstrap 5.
+2. Mapbox has been used to create the map section 
